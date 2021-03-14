@@ -1,0 +1,128 @@
+.Lid{
+    height: 20%;
+    width: 80%;
+    background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(55, 48, 48) 80%);
+    border-radius: 50% 50% 0 0;
+    box-shadow: inset -15px 0 #020202;
+    margin: 2% auto;
+    /* position: relative; */
+
+}
+
+.Glass{
+    height: 40%;
+    width: 70%;
+    background: linear-gradient(90deg, rgb(171, 235, 208) 0%, rgba(202, 229, 217, 0.79) 80%);
+    border-radius: 0 0 30px 30px;
+    box-shadow: -50px 0px 66px 45px #c3e8d8 inset;
+    margin:  auto;
+    /* position: relative; */
+}
+
+.Stand{
+  height: 15%;
+  width: 60%;
+  background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(55, 48, 48) 80%);
+  border-radius: 0 0 30px 30px;
+  box-shadow: inset -15px 0  #020202;
+  margin: 0% auto;
+}
+
+.Juice{
+    width: 70%;
+    height: 12%;
+    margin: auto;
+    background:linear-gradient(90deg, rgb(225, 231, 147) 0%, rgb(209, 225, 130) 58%);
+}
+
+.Milk{
+    width: 70%;
+    height: 12%;
+    margin: auto;
+    background: linear-gradient(90deg, rgb(236, 247, 243) 0%, rgb(228, 241, 236) 0%);
+
+}
+
+.Banana{
+    width: 70%;
+    height: 8.5%;
+    margin: auto;
+    background: linear-gradient(#f4d004, #d6bb22);
+}
+
+.Orange{
+    width: 70%;
+    height: 4.5%;
+    margin: auto;
+    background: rgb(250, 153, 49);
+}
+
+.Carrot{
+  width: 70%;
+  height: 4.5%;
+  margin: auto;
+  background: linear-gradient(90deg, rgba(244, 128, 4, 0.822) 0%, rgb(207, 130, 14) 80%);
+}
+
+.Cucumber{
+  width: 70%;
+  height: 4.5%;
+  margin: auto;
+  background: linear-gradient(90deg, rgba(127, 223, 98, 0.822) 0%, rgb(166, 180, 35) 80%);
+}
+.Beats{
+  width: 70%;
+  height: 5.5%;
+  margin: auto;
+  background: linear-gradient(90deg, rgb(183, 59, 214) 0%, rgb(121, 6, 6) 80%);
+}
+
+.Apple{
+    width: 70%;
+    height: 5.5%;
+    margin: auto;
+    background: linear-gradient(90deg, rgb(244, 24, 4) 0%, rgb(214, 34, 34) 80%);
+}
+
+.Stawberry{
+    width: 70%;
+    height: 4.5%;
+    margin: auto;
+    background: linear-gradient(90deg, rgb(247, 46, 27) 0%, rgb(238, 57, 57) 80%);
+}
+ 
+
+.Salad{
+    width: 70%;
+    height: 8%;
+    background: linear-gradient(#228c1d, #91ce50);
+    margin: auto;
+}
+
+.Kale{
+  width: 70%;
+  height: 8%;
+  background: linear-gradient(#266e22, #6d8a4f);
+  margin: auto;
+}
+
+.Celery{
+  width: 70%;
+  height: 8%;
+  background: linear-gradient(#1b6417, #446126);
+  margin: auto;
+}
+
+.Grapefruit{
+    width: 70%;
+    height: 4.5%;
+    margin: auto;
+    background: linear-gradient(90deg, rgb(244, 4, 131) 0%, rgb(214, 34, 87) 80%);
+}
+
+.Plum{
+    width: 70%;
+    height: 8%;
+    background: linear-gradient(90deg, rgb(187, 4, 244) 0%, rgb(137, 34, 214) 80%);
+    margin: auto;
+}
